@@ -1,1 +1,4 @@
 Doing changes for file
+one
+two
+three
