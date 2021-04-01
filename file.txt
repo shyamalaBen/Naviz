@@ -2,3 +2,6 @@ Doing changes for file
 four 
 five
 six
+one
+two
+three
